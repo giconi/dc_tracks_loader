@@ -1,0 +1,5 @@
+[user]
+        name = giconi
+        email = hawkins.mathew@gmail.com
+[merge]
+        tool = vimdiff
